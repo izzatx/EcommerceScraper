@@ -1,0 +1,23 @@
+{
+  "name": "title-extractor",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node src/index.ts",
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@types/node": "^22.10.5",
+    "axios": "^1.7.9",
+    "cheerio": "^1.0.0",
+    "dotenv": "^16.5.0",
+    "google-auth-library": "^9.15.0",
+    "googleapis": "^144.0.0",
+    "puppeteer": "^24.0.0"
+  }
+}
