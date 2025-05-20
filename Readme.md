@@ -36,3 +36,7 @@ npm install
 ```
 SPREADSHEET_ID=your_google_sheet_id_here
 ```
+
+## 📄 Additional Output
+
+For a detailed example of the output result, please refer to [output.md](./output.md).
